@@ -1,4 +1,4 @@
-package Punto2;
+package P2;
 
 public class Libro {
     private String titulo;
